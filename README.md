@@ -75,8 +75,6 @@ All notes are written in Indonesian for easier understanding and personal reflec
 
 ---
 
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - Martin Fowler
-
 *"In the era of LLMs and coding agents, learning languages and frameworks is no longer the primary goal.
 The real focus shifts to higher-level abstractions: problem framing, system design, constraints, and verification.
 Languages and frameworks remain important, but mainly as execution mediums rather than core skills."* - Alam Asy'arie
