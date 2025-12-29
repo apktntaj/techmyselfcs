@@ -1,6 +1,8 @@
 # Teach Myself CS
 
-This repository contains my learning notes as I study computer science fundamentals independently. This project focuses on what [`TYSCS`](https://teachyourselfcs.com/) and [`OSSU reading`](https://github.com/ossu/computer-science/blob/master/extras/readings.md) provide.
+This repository contains my learning notes as I study computer science fundamentals independently. I believe that in the AI agent era, we must defferentiate by learning fundamentals more deeply. This repo is part of my effort to mitigate that situation.
+
+This project focuses on what [`TYSCS`](https://teachyourselfcs.com/) and [`OSSU reading`](https://github.com/ossu/computer-science/blob/master/extras/readings.md) provide.
 
 ## 📚 Learning Materials
 
@@ -73,8 +75,6 @@ techmyselfcs/
 
 All notes are written in Indonesian for easier understanding and personal reflection. In the future maybe I will translate this into English.
 
----
+In the era of LLMs and coding agents, learning languages and frameworks is no longer the primary goal.The real focus shifts to higher-level abstractions: problem framing, system design, constraints, and verification.
 
-*"In the era of LLMs and coding agents, learning languages and frameworks is no longer the primary goal.
-The real focus shifts to higher-level abstractions: problem framing, system design, constraints, and verification.
-Languages and frameworks remain important, but mainly as execution mediums rather than core skills."* - Alam Asy'arie
+Languages and frameworks remain important, but mainly as execution mediums rather than core skills.
